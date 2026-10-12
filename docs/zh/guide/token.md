@@ -1,6 +1,6 @@
 ---
-title: PakePlus
-titleTemplate: 网站秒变桌面应用和手机应用 | 获取Token教程
+title: 获取 GitHub Token 教程 - PakePlus
+description: 详细图文教程获取 GitHub Token，用于 PakePlus 云端编译打包。GitHub 账号永久免费。
 layout: doc
 ---
 
@@ -22,7 +22,7 @@ token 使用本项目，默认会复制并点赞 PakePlus 及其子仓库，并�
 
 ## 自动 Github 授权登陆
 
-注册好之后，就可以点击 Github 授权登陆，自动获取 token 了，就不用再看后面的内容了
+注册好之后，在 PakePlus 桌面端上可以点击 Github 授权登陆，自动获取 token 了，就不用再看后面的内容了。如果你使用的移动端，请查看后面 手动创建 token 并填入使用
 
 ![](../../static/imgs/github1.webp)
 
